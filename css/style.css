@@ -1,0 +1,99 @@
+ @font-face {
+    font-family: "Rubik";
+    src: url(../image/Rubik.ttf)
+}
+
+
+header{
+    position: relative;
+    top: 0px;
+    border : 2px solid black;
+    padding: 5px;
+    width: 100vw;
+    
+
+    
+    background-color: #754918;
+}
+
+body{
+    background-color: #403428;
+
+}
+
+p{
+    color: aliceblue;
+    font-family: "Rubik";
+    font-size: 20px;
+}
+
+
+
+
+
+/* 
+.myClass{
+    background-image: url('../image/chon.jpg');
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 200px;
+    background-size: cover;
+} */
+
+
+
+
+.texture1{
+    background-image: url('../image/champi/texture1.png');
+    background-repeat: no-repeat;
+    background-color: rgb(25,80,88);
+    height: 80px;
+    width: 60px;
+    background-size: cover;
+}
+
+.texture2{
+    background-image: url('../image/champi/texture2.png');
+    background-color: rgb(25,80,88);
+    background-repeat: no-repeat;
+    height: 80px;
+    width: 60px;
+    background-size: cover;
+}
+
+.texture3{
+    background-image: url('../image/champi/texture3.png');
+    background-color: rgb(25,80,88);
+    background-repeat: no-repeat;
+    height: 80px;
+    width: 60px;
+    background-size: contain;
+}
+
+.texture4{
+    background-image: url('../image/champi/texture4.png');
+    background-color: rgb(25,80,88);
+    background-repeat: no-repeat;
+    height: 80px;
+    width: 60px;
+    background-size: cover;
+} 
+
+
+.texture5{
+    background-image: url('../image/champi/texture5.png');
+    background-color: rgb(25,80,88);
+    background-repeat: no-repeat;
+    height: 80px;
+    width: 60px;
+    background-size: cover;
+} 
+
+.texture6{
+    background-image: url('../image/champi/texture6.png');
+    background-color: rgb(25,80,88);
+    background-repeat: no-repeat;
+    height: 80px;
+    width: 60px;
+    background-size: cover;
+} 
